@@ -111,6 +111,9 @@ com.google.protobuf:
     - com.google.errorprone:error_prone_annotations
   protobuf-gradle-plugin: { version: '0.8.12' }
 
+com.pszymczyk.consul:
+  embedded-consul: { version: '2.1.4' }
+
 com.puppycrawl.tools:
   checkstyle: { version: '8.30' }
 
